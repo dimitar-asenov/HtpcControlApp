@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HTPC Control</string>
+    <string name="edit_message">Type here</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="open_settings">Settings</string>
+    <string name="pref_ip_address">Server IP address</string>
+    <string name="pref_port">Server port</string>
+</resources>
